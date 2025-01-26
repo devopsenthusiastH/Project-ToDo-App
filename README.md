@@ -36,13 +36,13 @@ A modern and responsive To-Do List application built with React.js and Tailwind 
 
 ## Screenshots
 ### Main UI
-![To-Do List UI](./screenshots/Main_ui.png)
+![To-Do List UI](./screenshort/Main_ui.png)
 
 ### Adding a Task
-![Adding Task](./screenshots/completion.png)
+![Adding Task](./screenshort/completion.png)
 
 ### Completed and Incomplete Tasks
-![Tasks](./screenshots/Adding_task.png)
+![Tasks](./screenshort/Adding_task.png)
 
 ## Future Enhancements
 - Add categories for tasks.

@@ -42,7 +42,7 @@ A modern and responsive To-Do List application built with React.js and Tailwind 
 ![Adding Task](./screenshort/completion.png)
 
 ### Completed and Incomplete Tasks
-![Tasks](./screenshort/Adding_task.png)
+![Tasks](./screenshort/Addind_task.png)
 
 ## Future Enhancements
 - Add categories for tasks.

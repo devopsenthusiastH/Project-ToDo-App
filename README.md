@@ -18,7 +18,7 @@ A modern and responsive To-Do List application built with React.js and Tailwind 
 ## How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/devopsenthusiastH/Project-ToDo-App.git
    ```
 2. Navigate to the project directory:
    ```bash
